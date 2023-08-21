@@ -1,0 +1,124 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>OB MEMBERS</title>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+    <!-- partial:index.partial.html -->
+
+    <body>
+        <div class="container">
+            <div class="card" style="--clr: #009688">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/Qdy5rvRb/1687257068843.jpg">
+                </div>
+                <div class="content">
+                    <h2>CEO</h2>
+                    <p>
+                       
+					   .
+                    </p>
+                    <a href="https://www.linkedin.com/in/vinithchandra-guntimatam-2b425325b">Read More</a>
+                </div>
+            </div>
+            <div class="card" style="--clr: #FF3E7F">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/G2Lt6QXR/Whats-App-Image-2023-06-21-at-2-03-34-PM.jpg">
+                </div>
+                <div class="content">
+                    <h2>CO-CEO</h2>
+                    <p>
+                        VERRA RAMA TEJA CURRENTLY PERCEIVING 4th YEAR B.TECH EEE(HONS) IN ROBOTICS AND AUTOMATION.
+                        HE IS THE ONE WHO HAS ALWAYS WITH THE TEAM WHO STOOD WITH TEAM AT THE HARD TIMES.
+                        Believes in "If you want to understand today, you have to search yesterday".
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+            <div class="card" style="--clr: #009688">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/x1wd21Rt/Whats-App-Image-2023-06-21-at-3-57-53-PM.jpg">
+                </div>
+                <div class="content">
+                    <h2>HR</h2>
+                    <p>
+                        AASHISH.K an upcoming and aspiring management student at Lovely Professional University, HE possess a strong drive to learn and adapt to diverse environments. With a focus on hard work and determination, HE strive to create a harmonious study or work environment and build meaningful relationships HIS relentless pursuit of opportunities in all aspects fuels their career and life aspirations.
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+            <div class="card" style="--clr: #009688">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/RFkK3pTK/Whats-App-Image-2023-06-21-at-7-46-12-PM.jpg">
+                </div>
+                <div class="content">
+                    <h2>CODING HEAD</h2>
+                    <p>
+                 
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+            <div class="card" style="--clr: #03A9F4">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/FRDFBs3Y/meenu.jpg">
+                </div>
+                <div class="content">
+                    <h2>EVENT MANAGER</h2>
+                    <p>
+                        MEENU SREE REDDY CURRENTLY PERCEIVING 2ND YEAR B.TECH CSE WITH AI.
+                        SHE WHO IS THE ONE MANAGES ALL THE ACTIVITIES OF THE CLUB AND BEST Coder WE HAVE.
+                        a WORKAHOLIC RESPONSIBLE MEMBER OF THE CLUB.
+                        BELIEVES IN "ARTIFICAL INTELLIGENCE IS A TOOL , NOT A THREAT". </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+            <div class="card" style="--clr: #03A9F4">
+                <div class="img-box">
+                    <img src="https://i.postimg.cc/QdpLdcfP/Whats-App-Image-2023-06-21-at-3-20-32-PM.jpg">
+                </div>
+                <div class="content">
+                    <h2>SPECIAL PROJECTS HEAD</h2>
+                    <p>
+                        KEERTHI.K Currently pursuing a B.Tech in CSE with a focus on AI and data engineering,
+                        she is determined to enhance her skills and broaden her perspective through courage and
+                        knowledge.
+                        Her aspirations include expanding her vision through internships and mastering ruling
+                        programming languages. With a strong grip on coding,
+                        she is poised to excel in their field and make a significant impact </p>
+                    <a href="">Read More</a>
+                </div>
+            </div><div class="card" style="--clr: #03A9F4">
+                <div class="img-box">
+                    <img src="">
+                </div>
+                <div class="content">
+                    <h2></h2>
+                    <p>
+                        </p>
+                    <a href="">Read More</a>
+                </div>
+            </div><div class="card" style="--clr: #009688">
+                <div class="img-box">
+                    <img src="">
+                </div>
+                <div class="content">
+                    <h2></h2>
+                    <p>
+                       
+                    </p>
+                    <a href="">Read More</a>
+                </div>
+            </div>
+        </div>
+    </body>
+    <!-- partial -->
+
+</body>
+
+</html>
